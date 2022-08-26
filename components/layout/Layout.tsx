@@ -15,3 +15,5 @@ const Layout = (props: { children: JSX.Element }) => {
     </div>
   );
 }
+
+export default Layout;
